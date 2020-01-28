@@ -7,7 +7,7 @@
 <title>DevopsProject Registration Form</title>
 </head>
 <body>
-<h1>sagi the king  DevopsProject Register Form</h1>
+<h1>Sagi The Gays  DevopsProject Register Form</h1>
 <form action=https://www.geektime.co.il/ method="post">
 			<table style="with: 50%">
 				<tr>
